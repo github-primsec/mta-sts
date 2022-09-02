@@ -1,7 +1,7 @@
 version: STSv1
 mode: enforce
 max_age: 2419200
-mx: *.mailbox.org
+mx: *.google.com
 mx: aspmx.l.google.com
 mx: alt1.aspmx.l.google.com
 mx: alt2.aspmx.l.google.com
