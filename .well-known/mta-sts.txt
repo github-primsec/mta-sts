@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
 max_age: 2419200
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
+mx: mail.a4a.de
