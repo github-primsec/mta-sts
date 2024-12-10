@@ -6,4 +6,5 @@ mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
 mx: mx1.simplelogin.co
 mx: mx2.simplelogin.co
-mx: mail.primesec.org
+mx: mx01.mail.icloud.com
+mx: mx02.mail.icloud.com
