@@ -6,3 +6,5 @@ mx: alt2.aspmx.l.google.com
 mx: alt3.aspmx.l.google.com
 mx: alt4.aspmx.l.google.com
 mx: aspmx.l.google.com
+mx: mx1.simplelogin.co
+mx: mx2.simplelogin.co
