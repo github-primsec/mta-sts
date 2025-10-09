@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
 max_age: 2419200
-mx: route3.mx.cloudflare.net
-mx: route2.mx.cloudflare.net
-mx: route1.mx.cloudflare.net 
+mx: themysterious.org
