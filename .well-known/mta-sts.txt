@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
 max_age: 2419200
-mx: mx2.simplelogin.co.
-mx: mx1.simplelogin.co.
 mx: themysterious.org
